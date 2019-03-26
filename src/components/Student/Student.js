@@ -6,7 +6,7 @@ export default class Student extends Component {
     super()
 
     this.state ={
-      studentInfo: { }
+      studentInfo: {}
     }
 
   }
